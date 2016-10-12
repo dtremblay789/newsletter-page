@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<title>Newsletter Page</title>
+
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="ExternalStyle.css">
+
+	span{
+	font-style:italic;
+	}
+	
+</head>
+
+<body>
+
+<section>
+
+<header>
+<img src="logo.png" alt="logo image">
+</header>
+
+<nav>
+<ul>
+<li><a href="Home3.html">Home</a></li>
+<li><a href="Survey3.html">Survey</a></li>
+<li><a href="Healthy3.html">Healthy Eating</a></li>
+<li><a href="Exercise3.html">Exercise</a></li>
+<li><a href="Newsletter3.html">Newsletter</a></li>
+</ul>
+</nav>
+
+<div>
+<h1>Newsletter Information</h1>
+
+<p>Thank you for visiting the Newsletter page.</p>
+
+<p>Newsletters will be available in October, November and December.  The newsletters will contain tips about staying healthy during the holidays.</p>
+
+<p>Please check back for more information in a few weeks.  </p>
+
+<p>Again, thank you for visiting! </p>
+
+	<span>
+
+<h2>October Newsletter</h2>
+
+<p color:red;>Coming Soon</p>
+
+<h2>November Newsletter</h2>
+
+<p>Please check the web page again in November</p>
+
+<h2>December Newsletter</h2>
+
+<p>Please check the web page again in December</p>
+
+	</span>
+
+</div>
+
+<footer>
+	<p>Website created by Devyn Tremblay in 2016</p>
+<p> View All Sources <a href="referencelist.pdf.docx">here</a> </p>
+</footer>
+
+</section>
+</body>
+
+</html>
